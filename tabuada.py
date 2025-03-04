@@ -11,8 +11,8 @@ for i in num:
     for j in num:
         print(i * j)
 
-   
-    
+
+
 tabuada=int(input("Tabuada do numero: "))
 
 for count in range(10):
@@ -21,4 +21,3 @@ for count in range(10):
 
 
 
- 
