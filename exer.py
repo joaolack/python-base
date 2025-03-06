@@ -69,7 +69,6 @@ print("(-) INSS (10%): R$", inss)
 print("FGTS (11%): R$", fgts)
 print("Total de descontos: R$", salBruto * ir + inss)
 print("Salário Líquido: R$", salLiq)
-    
 
 
 
